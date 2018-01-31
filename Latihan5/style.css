@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+}
+
+h1, h3 {
+  color:green;
+}
+
+ol li a {
+  color:red;
+}
+
+ul li a {
+  color:blue;
+  font-style: italic;
+
+}
+
+#p1 {
+  color:violet;
+}
+
+.p2 {
+  color:red;
+}
+.p2, .paragraf {
+  text-align: center;
+}
+
+.p3, .paragraf {
+  font-style: italic;
+}

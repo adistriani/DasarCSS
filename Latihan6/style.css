@@ -1,0 +1,49 @@
+ol li a:link {
+  color:red;
+}
+
+ol li a:hover, .hello:hover {
+  color:lightblue;
+}
+
+ul li a:hover {
+  font-size: 30px;
+  color:red;
+  font-style: italic;
+}
+
+ul li a:active{
+  color:orange;
+}
+
+ol li a:active{
+  color:gold;
+  font-weight: bold;
+}
+
+.hello:visited{
+  color:lightblue;
+}
+
+ul li:first-child a{
+  color:green;
+}
+
+
+ol li:last-child a{
+  color:#abcdea;
+}
+
+p:first-of-type{
+  font-style: italic;
+}
+
+p:last-of-type{
+  font-weight: bold;
+}
+
+body {
+  color:#babc21;
+}
+
+a {color:inherit;}
